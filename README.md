@@ -83,14 +83,6 @@ compiles the application into /build directory
 ### Deployment
 Checkout at Facebook's create-react-app documentation:[Deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-<br />
-
-## Project Structure
-Here’s the project structure of the Oftadeh React:
-
-<br />
-
-![Oftadeh - React Personal Portfolio](https://vitateach.com/wp-content/uploads/2019/12/project-structure.png)
 
 ## Theming
 
@@ -98,15 +90,8 @@ Here’s the project structure of the Oftadeh React:
 
 You can change colors and sizes , Sass variables of your app at src/SCSS/variables.scss
 
-<br />
-
-![Oftadeh - React Personal Portfolio](https://vitateach.com/wp-content/uploads/2019/12/css-color.png)
-
 ## Routing
-
-Oftadeh React routing system based on [react-router](https://reacttraining.com/react-router/)
-
-![Oftadeh - React Personal Portfolio](https://vitateach.com/wp-content/uploads/2019/12/route.png)
+[react-router](https://reacttraining.com/react-router/)
 
 ## Sources and Credits
 - react-icons

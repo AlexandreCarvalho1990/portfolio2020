@@ -1,17 +1,13 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import {
-    FaTwitter,
-    FaFacebookF,
-    FaLinkedinIn, 
-    FaGithub,
-    FaInstagram, 
-    FaDribbble
+    FaLinkedinIn,
+    FaGithub
 } from 'react-icons/fa';
 
 const SocialItem = ({ url, Icon }) => (
     <li className="m-1">
-        <Link className="text-white p-6" to={url}><Icon /></Link>
+        <a className="text-white p-6" href={url}><Icon /></a>
     </li>
 );
 
@@ -20,7 +16,7 @@ class SocialList extends React.Component{
     state = {
         socials: [
             {
-                url: 'linkedin.com/in/alexandre-carvalho-4530721a4 ',
+                url: 'https://linkedin.com/in/alexandre-carvalho-4530721a4 ',
                 Icon: FaLinkedinIn
             },
             {
