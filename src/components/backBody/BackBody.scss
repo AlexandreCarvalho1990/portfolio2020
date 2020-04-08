@@ -1,0 +1,19 @@
+@import './../../scss/variables.scss';
+
+.particles {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -1;
+  }
+
+
+.back-body{
+    background:linear-gradient(#243b55,#141e30);
+    width: 100vw;
+    height: 100vh;
+    bottom: 0;
+    z-index: -1;
+}
