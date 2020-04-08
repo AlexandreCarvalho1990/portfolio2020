@@ -1,11 +1,3 @@
-# Oftadeh React Portfolio
-Oftadeh - React Personal Portfolio Responsive Template is an React app written entirely with Javascript and has no jQuery dependency.
-
-<br />
-
-To view a live demo, [click here](https://oftadeh-react-portfolio.netlify.com/).
-html, css and jquery version, [click here](https://github.com/mohammadoftadeh/oftadeh-free-html5-portfolio)
-
 ## React
 [React](https://reactjs.org/) is the core of our template. If you don't know what React is or don't know how to use it, we strongly recommend checking the React before start doing anything with Oftadeh.
 
@@ -13,7 +5,6 @@ html, css and jquery version, [click here](https://github.com/mohammadoftadeh/of
 [Create React App](https://github.com/facebook/create-react-app) is a tool built by developers at Facebook to help you build React applications. It saves you from time- consuming setup and conguration.
 
 ## Table of Contents
-- [Oftadeh React Portfolio](#oftadeh-react-portfolio)
   - [React](#react)
   - [Create React App (CLI)](#create-react-app-cli)
   - [Table of Contents](#table-of-contents)
@@ -206,6 +197,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ## License
 Completely free (MIT)! See [LICENSE.md](https://github.com/mohammadoftadeh/oftadeh-free-html5-portfolio/blob/master/LICENSE) for more.
-
-## Donate
-You can donate to us. [link for donate](https://paypal.me/MohammadOftadeh?locale.x=en_US)
